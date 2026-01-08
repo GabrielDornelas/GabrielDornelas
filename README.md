@@ -2,7 +2,7 @@
 
 👨‍💻 **Full Stack Web Developer**
 
-Brazilian, graduated from FATEC in São José dos Campos, with over 6 years of experience in software development. Passionate about building web solutions, focusing on creating robust APIs and intuitive frontends. I love technical challenges, learning new technologies, and collaborating with teams to deliver high-quality products.
+Brazilian, graduated from FATEC in São José dos Campos, with over 7 years of experience in software development. Passionate about building web solutions, focusing on creating robust APIs and intuitive frontends. I love technical challenges, learning new technologies, and collaborating with teams to deliver high-quality products.
 
 ## Technologies I use:
 
